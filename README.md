@@ -17,3 +17,10 @@ Crea una API con 4 Metodos HTTP (GET, POST, PUT, DELETE). Pero solo puede accede
 
 ### Reto 5
 Llena una base de datos con la API que creaste y exportar los datos a un archivo CSV.
+
+<details>
+    <summary>Mis tiempos de los retos resueltos (Aprox)</summary>
+    <ul>
+        <li>Reto 1: 10 minutos</li>
+    </ul>
+</details>
