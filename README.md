@@ -22,6 +22,7 @@ Llena una base de datos con la API que creaste y exportar los datos a un archivo
     <summary>Mis tiempos de los retos resueltos (Aprox)</summary>
     <ul>
         <li>Reto 1: 10 minutos</li>
-        <li>Reto 2: 28 minutos</li>
+        <li>Reto 2: 38 minutos</li>
+        <li>Reto 3: 25 minutos</li>
     </ul>
 </details>
