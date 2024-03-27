@@ -1,3 +1,9 @@
+/*
+Reto 1
+
+Indicar si un String es palindromo o no.
+ */
+
 fun main() {
     val text1 = "dabale arroz a la zorra el abad"
     println("¿La palabra '$text1' es palindrome? : ${isPalindrome(text1)}")
