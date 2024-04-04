@@ -24,5 +24,6 @@ Llena una base de datos con la API que creaste y exportar los datos a un archivo
         <li>Reto 1: 10 minutos</li>
         <li>Reto 2: 38 minutos</li>
         <li>Reto 3: 25 minutos</li>
+        <li>Reto 4/5: 1 hora 50 minutos</li>
     </ul>
 </details>
